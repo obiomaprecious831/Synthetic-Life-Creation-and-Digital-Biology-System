@@ -61,7 +61,7 @@ This system consists of five interconnected smart contracts that govern the crea
 ### Containment Levels
 1. **Level 1**: Basic laboratory containment
 2. **Level 2**: Enhanced security protocols
-3. **Level 3**: High-security isolation
+3. **Level 3**: High-security isolationc
 4. **Level 4**: Maximum containment
 5. **Level 5**: Complete digital isolation
 
