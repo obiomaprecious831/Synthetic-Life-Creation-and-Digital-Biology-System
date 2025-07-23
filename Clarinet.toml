@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/dna-programming.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.evolution-governance]
+path = 'contracts/evolution-governance.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
